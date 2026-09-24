@@ -1,0 +1,4 @@
+case_id,customer_id,transaction_id,wallet_address,chain,amount,asset,timestamp,alert_reason,initial_risk_indicator,initial_risk_label
+CASE001,CUST001,TX1-007,bc1qnormalcust0010000000000000000000000000,Bitcoin,0.5,BTC,2026-09-20T10:30:00Z,Unusual transaction amount,Amount above recent average but within established customer range,Low
+CASE002,CUST002,TX2-007,0x2222222222222222222222222222222222222001,Ethereum,29100,USDT,2026-09-20T09:41:00Z,Suspicious exchange deposit,Three near-threshold inflows from new wallets followed by rapid consolidation; one source has indirect scam exposure,High
+CASE003,CUST003,TX3-007,0x3333333333333333333333333333333333333001,Ethereum,86000,USDT,2026-09-21T09:20:00Z,Complex network and mixer exposure,Multi-hop rapid flow includes mixer exposure and a three-hop sanctions link,Critical

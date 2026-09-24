@@ -1,0 +1,2 @@
+watchlist_id,case_id,entity_name,entity_type,wallet_address,chain,program,jurisdiction,listed_date,risk_category,source_note,is_sanctioned
+SAN-2026-001,CASE003,Orion Exchange Cluster 7,Virtual asset service provider,0xaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa3001,Ethereum,Synthetic blocked-entity list,Demo regulator,2026-01-15,Sanctioned entity,Synthetic record for CryptoShield MVP demonstration only,true

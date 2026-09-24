@@ -1,0 +1,4 @@
+customer_id,case_id,full_name,country,residency_risk,occupation,account_open_date,kyc_risk_rating,expected_monthly_volume_usd,typical_tx_min_usd,typical_tx_max_usd,primary_wallet,source_of_funds,pep_status
+CUST001,CASE001,Elena Park,Singapore,Low,Software engineer,2024-10-01,Low,30000,7000,35000,bc1qnormalcust0010000000000000000000000000,Salary and personal savings,No
+CUST002,CASE002,Marcus Reed,United Kingdom,Low,Online electronics reseller,2025-08-06,Medium,12000,500,5000,0x2222222222222222222222222222222222222001,E-commerce sales,No
+CUST003,CASE003,Nadia Volkov,United Arab Emirates,Medium,Independent consultant,2026-03-20,High,25000,1000,12000,0x3333333333333333333333333333333333333001,Consulting income,No
