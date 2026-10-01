@@ -377,15 +377,3 @@ Potential future developments include:
 
 The current prototype therefore demonstrates the **core investigation logic**
 while leaving the architecture modular enough for future expansion.
-
----
-
-## 📌 Disclaimer
-
-CryptoShield AI is an educational prototype developed for academic demonstration.
-
-All customer, transaction, wallet, and compliance data used in the current demo
-are synthetic.
-
-The system should not be used to make real financial, legal, regulatory, or
-enforcement decisions.
